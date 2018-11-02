@@ -1,0 +1,7 @@
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\bin\Release\CrimeAnalyzer.exe.config
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\bin\Release\CrimeAnalyzer.exe
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\bin\Release\CrimeAnalyzer.pdb
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\obj\Release\CrimeAnalyzer.csprojAssemblyReference.cache
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\obj\Release\CrimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\obj\Release\CrimeAnalyzer.exe
+C:\Users\hekno\source\repos\CrimeAnalyzer\CrimeAnalyzer\obj\Release\CrimeAnalyzer.pdb
